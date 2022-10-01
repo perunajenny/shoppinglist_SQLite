@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Shoppinglist_SQLite",
+    "slug": "Shoppinglist_SQLite",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Shoppinglist_SQLite"
+}
